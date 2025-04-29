@@ -2,8 +2,6 @@
 #include <iostream>
 #include <vector>
 #include <iterator>
-#include "Circle.h"
-#include "ShapesModel.h"
 
 using namespace std;
 
